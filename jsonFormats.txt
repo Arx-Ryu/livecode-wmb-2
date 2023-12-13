@@ -1,0 +1,60 @@
+localhost:8080/
+
+//Bill
+{
+    "customer_id":,
+    "table_id":,
+    "trans_id":""
+    "bill_detail": {
+        "bill_id":,
+        "mprice_id":,
+        "qty":
+    }
+}
+
+//Customer
+{
+    "name":"",
+    "phone":"",
+}
+
+//Discount
+{
+    "description":"",
+    "pct":
+}
+
+//MenuPrice
+{
+    "price":
+}
+
+//Menu
+{
+    "name":"",
+    "mprice_id":
+}
+
+//Table
+{
+    "description":"Table T01"
+}
+
+{
+    "description":"Table T02"
+}
+
+{
+    "description":"Table T03"
+}
+
+//TransType
+{
+    "id":"EI",
+    "description":"Eat In"
+}
+
+{
+    "id":"TA",
+    "description":"Take Away"
+}
